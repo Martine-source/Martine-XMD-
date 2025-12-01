@@ -1,1 +1,86 @@
-# Martine-XMD-
+<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">WELCOME TO MARTINE-XMD 
+
+</h2>
+<h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot By Martine-XMD</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;MEET+MARTINE-XMD+🤖;ADVANCED+WHATSAPP+BOT+EXPERIENCE+⚡;CODED+WITH+PASSION+BY+MARTINE-XMD+💻;OFFICIALLY+MARTINE'S+BOT+🎉" alt="Typing Animation">
+</p>
+
+<p align="center">
+  <img alt="MARTINE-XMD" width="700" height="300" src="https://files.catbox.moe/juhq1l.jpg">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+## 🛡 How to Deploy in 3 Simple Steps
+
+
+
+<div align="center">
+
+### 🔹 Step 1: Fork & Star This Repo
+Help support the project by clicking the buttons below. Fork it to your GitHub and give it a star!
+<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
+  <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
+  <a href='https://github.com/Martine-source/Martine-XMD-/fork' target="_blank">
+    <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+  </a>
+</div>
+
+
+
+
+
+
+[![Fork](https://img.shields.io/github/forks/Martine-source/Martine-XMD-?label=Fork&style=for-the-badge&logo=git)](https://github.com/Martine-source/Martine-XMD-/fork)
+[![Star](https://img.shields.io/github/stars/Martine-source/Martine-XMD-?label=Star&style=for-the-badge&logo=github)](https://github.com/Martine-source/Martine-XMD-/stargazers)
+
+
+---
+
+### 🔹 Step 2: Generate Session ID
+You need a session to connect your bot. Choose your preferred method  I recommended using server 1
+
+[![Scan QR Code](https://img.shields.io/badge/🔍_SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://dml-sessionsite.onrender.com/qr) 
+
+[![Pair Device](https://img.shields.io/badge/⚡_SERVER_1-8A2BE2?style=for-the-badge&logo=windows&logoColor=white&labelColor=1A1A2E&color=9400D3)](https://dml-sessionsite.onrender.com/)
+---
+[![Pair Device](https://img.shields.io/badge/🚀_SERVER_2-4CAF50?style=for-the-badge&logo=link&logoColor=white)](https://two-vz60.onrender.com)
+---
+### 🔹 Step 3: Deploy with One Click
+Easily deploy to Heroku with the button below:
+
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/Martine-source/Martine-XMD-)
+
+
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_RAILWAY-430098?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/new)
+
+
+
+
+
+
+
+
+</div>
+
+---
+
+## 🌐 Join The Community
+
+<p align="center">
+
+  <a href="https://whatsapp.com/channel/0029Vb6n7fhJP211X5K66e3m">
+    <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
+  </a>
+</p>
+
